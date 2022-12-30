@@ -16,11 +16,7 @@ Products on online shopping site
 
 
 
-
-
-
-
-
+Products
 
 
 <img width="927" alt="2022-12-30 (18)" src="https://user-images.githubusercontent.com/79889734/210084190-8c199cd4-bc2f-4de4-8fac-a9d56958e3b5.png">
@@ -73,10 +69,20 @@ Products on online shopping site
 
 
 
+Proceding towards transaction
+
+
+
 <img width="701" alt="2022-12-30 (21)" src="https://user-images.githubusercontent.com/79889734/210084910-884d7471-18b5-4eb7-9ab6-bca8484ccf0c.png">
 
 
 
+
+
+
+
+
+Paytm method for transaction
 
 
 
