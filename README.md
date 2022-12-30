@@ -3,6 +3,7 @@ Full-Stack Ecommerce Website  with Admin Dashboard & Paytm Payment Gateway.
 
 Products on online shopping site
 
+
 <img width="942" alt="2022-12-30 (17)" src="https://user-images.githubusercontent.com/79889734/210084147-6be3e34c-6010-49dc-bf00-4002177b62c2.png">
 
 
@@ -55,7 +56,9 @@ Products on online shopping site
 
 
 
+
 <img width="911" alt="2022-12-30 (20)" src="https://user-images.githubusercontent.com/79889734/210084406-82a98267-b1c0-4210-9afa-737823f8e6c1.png">
+
 
 
 
@@ -69,7 +72,9 @@ Products on online shopping site
 
 
 
+
 <img width="701" alt="2022-12-30 (21)" src="https://user-images.githubusercontent.com/79889734/210084910-884d7471-18b5-4eb7-9ab6-bca8484ccf0c.png">
+
 
 
 
@@ -85,7 +90,9 @@ ADMIN PANEL VIEW
 
 
 
+
 <img width="862" alt="2022-12-30 (8)" src="https://user-images.githubusercontent.com/79889734/210084485-ff28dbe1-30da-447d-928c-2cc6ea1211cf.png">
+
 
 
 
@@ -101,6 +108,7 @@ ADMIN PANEL VIEW
 
 
 <img width="903" alt="2022-12-30 (10)" src="https://user-images.githubusercontent.com/79889734/210084520-3b9bc4db-d89a-49fa-b9a1-28d6ea461ced.png">
+
 
 
 
